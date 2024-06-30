@@ -1,0 +1,546 @@
+[
+  {
+    "fullName": "Duvvuri Suryatheja Reddy",
+    "linkedin_internal_id": "616902753",
+    "first_name": "Duvvuri",
+    "last_name": "Suryatheja Reddy",
+    "public_identifier": "duvvuri-suryatheja-reddy",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/C5616AQGgVu2609qzpQ/profile-displaybackgroundimage-shrink_200_800/0/1643458214718?e=2147483647&v=beta&t=UEdqF1rDE8U8iBEF72OptZqv4jP2c9Im-vg46nMY5bU",
+    "profile_photo": "https://media.licdn.com/dms/image/D5603AQHJSldfmmzMSA/profile-displayphoto-shrink_200_200/0/1718254514950?e=2147483647&v=beta&t=S8_S8c9XyU_fQUG7ZWnrGnTwFIk2q2AcBcp4DBa0Rsw",
+    "headline": "Data Scientist at GEP",
+    "location": "Krishna, Andhra Pradesh, India\n          \n            Contact Info",
+    "followers": "3K followers",
+    "connections": "500+ connections",
+    "about": "I am a goal-oriented professional delivering nearly 3 years (including 2 years in Data Science) in Data Analysis and NLP, driving impactful projects and deriving crucial insights. My dexterity lies in developing NLP applications using Prompt Engineering with GPT, Langchain Agent, Tools and other NLP techniques. Demonstrated excellence in end-to-end application deployment using FastAPI, Docker, and DevOps, ensuring seamless project execution and delivery. I’ve proved my excellence in orchestrating the development of NLP applications using different NLP techniques, leading to increase in company revenue.You can also add few key achievements in your “About” section•\tI’m capable of engaging in client-facing activities, understanding project requirements, and ensuring effective communication throughout the project lifecycle •\tExcellent at spearheading the creation of NLP tools to streamline processes and indirectly contribute to revenue growth•\tReceived two increment letters within 1.5 years, acknowledging timely and efficient project deliveries.",
+    "experience": [
+      {
+        "position": "Data Scientist",
+        "company_url": "https://www.linkedin.com/company/gep-worldwide?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/D560BAQGUKOWryCOAwA/company-logo_100_100/0/1719257131393/gep_worldwide_logo?e=2147483647&v=beta&t=sfjnwrcq_WKFARvCKfNO0iil9CpCOzc6NYkxa6LF2P8",
+        "company_name": "GEP Worldwide",
+        "location": "Hyderabad, Telangana, India",
+        "summary": "•\tEngaging in client-facing responsibilities, understanding requirements, and ensuring effective communication throughout the project lifecycle using latest NLP techniques.•\tDeveloping NLP applications using Prompt Engineering with GPT and Langchain Agent and Tools FIASS Vector DB with RAG approach, resulting in a significant increase in company revenue.•\tSpearheading the creation of a customer support tool, streamlining employee processes, and indirectly contributing to revenue growth.•\tImplementing Azure Custom Vision and Computer Vision API to enhance signature detection, resulting in cost reduction for the project.•\tDelivering all projects with backend API building, contributing to comprehensive application development.•\tRecognized by colleagues for exceptional support and guidance, reflecting strong relationship management skills.\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "May 2022",
+        "ends_at": "Present",
+        "duration": "2 years 2 months"
+      },
+      {
+        "position": "Associate Developer",
+        "company_url": "https://www.linkedin.com/company/ibm?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=5zkuzxYrW1Iyx8oUa-u7lMSQ9TN1Q9D87M_0ybQf3NQ",
+        "company_name": "IBM",
+        "location": "Hyderabad, Telangana, India",
+        "summary": "•\tProvided technical support for IBM products, ensuring optimal performance and client satisfaction; interacted with clients to understand their needs, optimized applications for speed and scalability, and identified new processes to enhance product performance.•\tSecured the \"Best GBS Associate Award,\" representing dedication and commitment to clients and the organization.•\tReceived cash prizes three times for delivering effective solutions to clients using cross-technologies.",
+        "starts_at": "Jan 2021",
+        "ends_at": "Apr 2022",
+        "duration": "1 year 4 months"
+      },
+      {
+        "position": "Data Science Intern",
+        "company_url": "https://kr.linkedin.com/company/samsung-electronics?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/C560BAQFsvADfvcJi_A/company-logo_100_100/0/1676336400451/samsung_electronics_logo?e=2147483647&v=beta&t=YNJQ4rpiVaUKshnhopM0SF_9RvG2FB45eVS34XoidpQ",
+        "company_name": "Samsung Electronics",
+        "location": "Bengaluru Area, India",
+        "summary": "•\tAssisting as a Lead Scoring Analysis to find out which customers are potential leads of IBM Websites using Logistic RegressionBuilding reusable code for future use•\tPerformed exploratory Data Analysis to visualize how each column relates to another•\tManaged data cleaning and gained better clarity on data•\tRectified & removed highly correlated predictors with the help of Variance Inflation Factor, as this correlation could have affected the analysis•\tWorked on Logistic Regression model to identify the important columns which help to convert potential leads to customers•\tProvided recommendations to the company to increase potential leads.\n            \n\n    \n    \n\n    \n        Show less",
+        "starts_at": "Jan 2020",
+        "ends_at": "Jun 2020",
+        "duration": "6 months"
+      }
+    ],
+    "education": [
+      {
+        "college_url": "https://in.linkedin.com/school/iiitbofficial/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "International Institute of Information Technology Bangalore",
+        "college_image": "https://media.licdn.com/dms/image/D560BAQEocmV8HEnx7w/company-logo_100_100/0/1699346904551/iiitbofficial_logo?e=2147483647&v=beta&t=FUI41jTJ9y9ADjEK4kAt8GNzg5Xik_Mn91zDmkOdn9A",
+        "college_degree": "PG Diploma",
+        "college_degree_field": "3.94/4.00",
+        "college_duration": "2020 - 2021",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://in.linkedin.com/school/b.i.t.-mesra-ranchi/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Birla Institute of Technology, Mesra",
+        "college_image": "https://media.licdn.com/dms/image/C510BAQE1eCiU5qZBPg/company-logo_100_100/0/1630591745008?e=2147483647&v=beta&t=ZgUG5_6Qb3txh1RgoIlafjZSlURqudMfns9yg73SpXA",
+        "college_degree": "Bachelor's degree",
+        "college_degree_field": "8.26/10",
+        "college_duration": "2016 - 2020",
+        "college_activity": ""
+      },
+      {
+        "college_url": "https://in.linkedin.com/school/b.i.t.-mesra-ranchi/?trk=public_profile_school_profile-section-card_image-click",
+        "college_name": "Birla Institute of Technology, Mesra",
+        "college_image": "https://media.licdn.com/dms/image/C510BAQE1eCiU5qZBPg/company-logo_100_100/0/1630591745008?e=2147483647&v=beta&t=ZgUG5_6Qb3txh1RgoIlafjZSlURqudMfns9yg73SpXA",
+        "college_degree": "Bachelor of Engineering - BE",
+        "college_degree_field": "Computer Science",
+        "college_duration": "2016 - 2020",
+        "college_activity": ""
+      }
+    ],
+    "articles": [],
+    "description": {
+      "description1": "GEP Worldwide",
+      "description1_link": "https://www.linkedin.com/company/gep-worldwide?trk=public_profile_topcard-current-company",
+      "description2": "International Institute of Information Technology Bangalore",
+      "description2_link": "https://in.linkedin.com/school/iiitbofficial/?trk=public_profile_topcard-school",
+      "description3": ""
+    },
+    "activities": [
+      {
+        "link": "https://www.linkedin.com/posts/andrewyng_new-short-course-on-advanced-retrieval-for-activity-7148709767006289920-hnnj?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5605AQHDcVRSBdY_xw/videocover-high/0/1704385179030?e=2147483647&v=beta&t=c27CTjwFrRef7aYn_6Ezy_lkWs-yQmEsB46atB9cUHs",
+        "title": "New short course on advanced retrieval for RAG (retrieval augmented generation)! \n\nRAG fetches relevant documents to give context to an LLM. In…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/riteshub_linkedin-motivation-sarcasm-activity-7126827263580397568-dVQq?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D4D22AQFB4LnrTKgdPw/feedshare-shrink_2048_1536/0/1699168027429?e=2147483647&v=beta&t=tx2t9wRapsszoqABJ5kbvkkMw-aJ89QVLobWX2S9kaM",
+        "title": "This motivational dog should be on LinkedIn 😜\n\n#linkedin #motivation #sarcasm",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/b%2Ei%2Et%2E-mesra-ranchi_bitm-bitmadmissions-phdadmissions-activity-7123636660952584194-bBER?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5622AQGxItkF0Ds38A/feedshare-shrink_2048_1536/0/1698407329301?e=2147483647&v=beta&t=GPf-hPf8IZWHsITuVSlnE1nnD5mDnFCs59LTn66PoAg",
+        "title": "A World of Boundless Opportunities awaits you at BIT Mesra. Do not miss out on BIT Mesra’s admissions to PhD Program in Management (Discipline –…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/b%2Ei%2Et%2E-mesra-ranchi_bitm-activity-7120763008565329920-9tLk?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5622AQGSQc-wJczi_w/feedshare-shrink_800/0/1697722198026?e=2147483647&v=beta&t=jhR8oJwq_hkNdItKo7cqEm4LpoHsB5pn9Af5kQXQ3YE",
+        "title": "#BITM salutes the grit and determination of 14 Professors and Research Scholars for being featured in the coveted Stanford University's Top 4%…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/b%2Ei%2Et%2E-mesra-ranchi_bitconvocation2023-bitmesra-graduationday-activity-7113421545686908928-gy9Y?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5622AQGoXsonznsu9g/feedshare-shrink_2048_1536/0/1695971856934?e=2147483647&v=beta&t=37SOlBjAhGvdXfu6pfWA4VzIvzw5VSeJa3ACjYYLU3k",
+        "title": "The XXXIII Convocation of BIT Mesra is just around the corner. Join us on October 1, 2023, at 11:00 AM at G.P. Birla Auditorium. We are honored to…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/b%2Ei%2Et%2E-mesra-ranchi_bitconvocation2023-bitmesra-graduationday-activity-7113116073427697665-_trZ?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5622AQHXmjifoSFlkw/feedshare-shrink_2048_1536/0/1695899026570?e=2147483647&v=beta&t=YSvc9DvInjhH74l34D5WgzNA1U0D0xMioMql3EzB8Tc",
+        "title": "The XXXIII Convocation of BIT Mesra is just around the corner. Join us on October 1, 2023, at 11:00 AM at G.P. Birla Auditorium. We are honoured to…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/b%2Ei%2Et%2E-mesra-ranchi_teachersday-inspiration-activity-7104679129253367808-xceA?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5622AQHrWQ_r4ergpg/feedshare-shrink_800/0/1693887502149?e=2147483647&v=beta&t=5G_2TjdIouFtz9LNPhyEquxEZSkUWLmsO3GvL4hqA1Q",
+        "title": "To the ones who ignite the flames of curiosity and inspire a lifelong love for learning, Happy #TeachersDay! Your impact reaches far beyond the…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/b%2Ei%2Et%2E-mesra-ranchi_bitmesra-isro-adityal1-activity-7104434178141679616-ZRWf?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5622AQFj206FA66oGw/feedshare-shrink_2048_1536/0/1693829101217?e=2147483647&v=beta&t=UaL9ivwSElgB-iqF8_9Es-KpTZnLTzXmqTunFQEgy_Q",
+        "title": "Congratulations to Nigar Shaji, a brilliant alumna of Birla Institute of Technology, Mesra #BITMesra, currently serving at the ISRO - Indian Space…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/b%2Ei%2Et%2E-mesra-ranchi_chandrayaan3-moonmission-isro-activity-7100392729376919552-sAZf?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5622AQGfxsoNhiRedA/feedshare-shrink_800/0/1692865544713?e=2147483647&v=beta&t=wu6b4qgxDknyAo0J2KqWqXq4nEhInZqr-sxfGWoGT_I",
+        "title": "A stellar leap for humanity as ISRO’s Chandrayaan 3 lands on the lunar embrace. Celebrating the spirit of exploration and innovation that takes us…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/b%2Ei%2Et%2E-mesra-ranchi_bitmesra-activity-7100058483273711617-VK7N?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5605AQEn22hGtSqpVw/videocover-high/0/1692785845944?e=2147483647&v=beta&t=zav8T2Gjqj3pHVOQw5dkmqMjjc5Pb5bpaQnKzHmUlMY",
+        "title": "Explore cutting-edge education at #BITMesra. Limited seats are available for B. Tech, B. Arch and Integrated M. Sc. Programs. Apply Online till…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/joymust_must-research-presents-muster-hyderabad-activity-7083167683482943488-7SSU?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5622AQG2Nvq_1EU7Yg/feedshare-shrink_800/0/1688758773825?e=2147483647&v=beta&t=a7OZtZWXW8nKZZufSBCzQSCwT9DCOF7QV4LX6TtDLUg",
+        "title": "MUST Research presents MUSTer Hyderabad 🇮🇳\n\nDate: 15th July 2023 (Saturday)\n\nTime: 4 PM Onwards\n\nRSVP: https://lnkd.in/gq_E_VxS\n\nSee you all there!…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/deril-raju_datascience-datascientist-coop-activity-7075477477531283457-e_LZ?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5622AQGN-SkK7Zdvag/feedshare-shrink_2048_1536/0/1686925285988?e=2147483647&v=beta&t=1sVfyUufzW8iWjnXkQnHz9rDWqjwfge-tT7uWWZtoeI",
+        "title": "I am thrilled to announce that I have joined HarbourVest Partners as a Data Scientist Co-Op. Super excited to work with Kang Liu and their team on…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      },
+      {
+        "link": "https://www.linkedin.com/posts/santoshyeshwanth_portfolio-professionaljourney-careermilestone-activity-7071018522868400128-mN6F?trk=public_profile",
+        "image": "https://media.licdn.com/dms/image/D5605AQGLRMVYOz5R5g/videocover-low/0/1685862175057?e=2147483647&v=beta&t=ZM2npAe6qzd3IjV4V48cjQGaMbPD2ITLdtgCFHyKvOU",
+        "title": "📢 Exciting Announcement: Sharing My Portfolio Journey on LinkedIn! 🚀\n\nHey LinkedIn fam! 👋 I am thrilled to share a significant milestone in my…",
+        "activity": "Liked by Duvvuri Suryatheja Reddy"
+      }
+    ],
+    "volunteering": [],
+    "certification": [
+      {
+        "company_image": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1630652622688/microsoft_logo?e=2147483647&v=beta&t=4ft1hh_UdO2TMuqRWlFPHTTr2B3BN0E2LmTE6tEYwJI",
+        "certification": "Microsoft Certified: Azure Fundamentals",
+        "company_url": "https://www.linkedin.com/company/microsoft?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Microsoft",
+        "issue_date": "Issued May 2021",
+        "credential_id": "Credential ID 991319957",
+        "credential_url": "https://www.credly.com/badges/280d4957-81b4-4424-98f6-4aaac9de4cfe?source=linked_in_profile&trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C560BAQEHKffoI8RwIQ/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=2147483647&v=beta&t=0zKHG5J9nJIcD_jJIkrKC7vZqhd3zq-uc62wer0_TVk",
+        "certification": "Convolutional Neural Networks in TensorFlow",
+        "company_url": "https://www.linkedin.com/company/deeplearningai?trk=public_profile_profile-section-card_image-click",
+        "company_name": "DeepLearning.AI",
+        "issue_date": "Issued Dec 2020",
+        "credential_id": "Credential ID GK8Z5LKWX7Z6",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/GK8Z5LKWX7Z6?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C560BAQEHKffoI8RwIQ/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=2147483647&v=beta&t=0zKHG5J9nJIcD_jJIkrKC7vZqhd3zq-uc62wer0_TVk",
+        "certification": "DeepLearning.AI TensorFlow Developer Specialization",
+        "company_url": "https://www.linkedin.com/company/deeplearningai?trk=public_profile_profile-section-card_image-click",
+        "company_name": "DeepLearning.AI",
+        "issue_date": "Issued Dec 2020",
+        "credential_id": "Credential ID MXDRYLAQCRVA",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/certificate/MXDRYLAQCRVA?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C560BAQEHKffoI8RwIQ/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=2147483647&v=beta&t=0zKHG5J9nJIcD_jJIkrKC7vZqhd3zq-uc62wer0_TVk",
+        "certification": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+        "company_url": "https://www.linkedin.com/company/deeplearningai?trk=public_profile_profile-section-card_image-click",
+        "company_name": "DeepLearning.AI",
+        "issue_date": "Issued Dec 2020",
+        "credential_id": "Credential ID FUCT6289BDWU",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/FUCT6289BDWU?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C560BAQEHKffoI8RwIQ/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=2147483647&v=beta&t=0zKHG5J9nJIcD_jJIkrKC7vZqhd3zq-uc62wer0_TVk",
+        "certification": "Natural Language Processing in TensorFlow",
+        "company_url": "https://www.linkedin.com/company/deeplearningai?trk=public_profile_profile-section-card_image-click",
+        "company_name": "DeepLearning.AI",
+        "issue_date": "Issued Dec 2020",
+        "credential_id": "Credential ID 6RR4YUZZDSMH",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/6RR4YUZZDSMH?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C560BAQEHKffoI8RwIQ/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=2147483647&v=beta&t=0zKHG5J9nJIcD_jJIkrKC7vZqhd3zq-uc62wer0_TVk",
+        "certification": "Sequences, Time Series and Prediction",
+        "company_url": "https://www.linkedin.com/company/deeplearningai?trk=public_profile_profile-section-card_image-click",
+        "company_name": "DeepLearning.AI",
+        "issue_date": "Issued Dec 2020",
+        "credential_id": "Credential ID 63HAHLKZ9JBS",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/63HAHLKZ9JBS?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/D560BAQEocmV8HEnx7w/company-logo_100_100/0/1699346904551/iiitbofficial_logo?e=2147483647&v=beta&t=FUI41jTJ9y9ADjEK4kAt8GNzg5Xik_Mn91zDmkOdn9A",
+        "certification": "PG Diploma in Data Science",
+        "company_url": "https://in.linkedin.com/school/iiitbofficial/?trk=public_profile_profile-section-card_image-click",
+        "company_name": "International Institute of Information Technology Bangalore",
+        "issue_date": "Issued Aug 2020",
+        "credential_id": "Credential ID 40838460",
+        "credential_url": "https://www.credential.net/76e09dbc-0242-446d-bc17-d3bef9500a9c?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Probability and Statistics: To p or not to p?",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Jul 2020",
+        "credential_id": "Credential ID 34NEN6ZZGNY3",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/34NEN6ZZGNY3?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "An Intuitive Introduction to Probability",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Apr 2020",
+        "credential_id": "Credential ID PPNJVLM3RCDB",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/PPNJVLM3RCDB?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Applied Data Science Capstone",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "Credential ID 92X5C2V73BXA",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/92X5C2V73BXA?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "IBM Data Science Specialization",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "Credential ID 7QJKRTSKTU9E",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/7QJKRTSKTU9E?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Data Analysis with Python",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "Credential ID WQKCFVXBKUFU",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/WQKCFVXBKUFU?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Data Science Methodology",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "See credential",
+        "credential_url": "https://www.youracclaim.com/badges/fe7efddb-3bdd-4910-bc83-a1c41467aec9/linked_in_profile?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Data Science Methodology",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "Credential ID 8S7VUPKMFX9A",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/8S7VUPKMFX9A?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Data Science Orientation",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "See credential",
+        "credential_url": "https://www.youracclaim.com/badges/ba002424-d62d-430d-bb41-6f27a5606ca0/linked_in_profile?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Data Visualization with Python",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "Credential ID RXNB3TKBXYKB",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/RXNB3TKBXYKB?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Databases and SQL for Data Science",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "Credential ID 68HXFMZ3FN53",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/68HXFMZ3FN53?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Machine Learning with Python",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "Credential ID XHTWQX8PN3M5",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/XHTWQX8PN3M5?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Open Source tools for Data Science",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "Credential ID KSSMXRY3MHY2",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/KSSMXRY3MHY2?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Open Source Tools for Data Science",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "See credential",
+        "credential_url": "https://www.youracclaim.com/badges/4c27c30b-41ba-4a68-822b-4d1059ae979d/linked_in_profile?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Python for Data Science and A",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "Credential ID XSLLF5YXSMCK",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/XSLLF5YXSMCK?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "Python for Data Science and AI",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "See credential",
+        "credential_url": "https://www.youracclaim.com/badges/9b953cb8-5153-409f-a33b-49af867b8da2/linked_in_profile?trk=public_profile_see-credential"
+      },
+      {
+        "company_image": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1630530042036/coursera_logo?e=2147483647&v=beta&t=t7ymaKnZVV2oz4KQr_QFingyhPSvNjCjVyeH5geTvdA",
+        "certification": "What is Data Science?",
+        "company_url": "https://www.linkedin.com/company/coursera?trk=public_profile_profile-section-card_image-click",
+        "company_name": "Coursera",
+        "issue_date": "Issued Mar 2020",
+        "credential_id": "Credential ID VREZZTEH4Z77",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/VREZZTEH4Z77?trk=public_profile_see-credential"
+      }
+    ],
+    "people_also_viewed": [
+      {
+        "link": "https://in.linkedin.com/in/sravan-kumar-tadiparthi-6b61b175?trk=public_profile_browsemap-profile",
+        "name": "SRAVAN KUMAR TADIPARTHI",
+        "summary": "Data Scientist at DBS Bank",
+        "location": "Andhra Pradesh, India"
+      },
+      {
+        "link": "https://in.linkedin.com/in/athishgr?trk=public_profile_browsemap-profile",
+        "name": "Athish G R",
+        "summary": "Associate Data Scientist at GEP",
+        "location": "Salem"
+      },
+      {
+        "link": "https://in.linkedin.com/in/ananya-gulati?trk=public_profile_browsemap-profile",
+        "name": "Ananya Gulati",
+        "summary": "",
+        "location": "Ranchi"
+      },
+      {
+        "link": "https://in.linkedin.com/in/jainanuja4?trk=public_profile_browsemap-profile",
+        "name": "Anuja Jain",
+        "summary": "Data Scientist at GEP",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://in.linkedin.com/in/dhavalarya?trk=public_profile_browsemap-profile",
+        "name": "Dhaval Arya",
+        "summary": "Data Scientist at GEP | Ex-ML Intern at GEP | GEP Hackathon winner 🏆 | ML Enthusiast | Full Stack Web Developer | TIET '23",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://in.linkedin.com/in/jugal-gohil-989598136?trk=public_profile_browsemap-profile",
+        "name": "Jugal Gohil",
+        "summary": "Senior Data Scientist at GEP Worldwide",
+        "location": "Hyderabad"
+      },
+      {
+        "link": "https://in.linkedin.com/in/yogitha-jayareddygari-3169ba106?trk=public_profile_browsemap-profile",
+        "name": "Yogitha Jayareddygari",
+        "summary": "Principal Data Scientist | Ex Fractal | Ex NIT",
+        "location": "Bangalore Urban"
+      },
+      {
+        "link": "https://in.linkedin.com/in/saikanth-atluri-59509a180?trk=public_profile_browsemap-profile",
+        "name": "Saikanth atluri",
+        "summary": "",
+        "location": "Hyderabad"
+      },
+      {
+        "link": "https://in.linkedin.com/in/anishjsmumbai?trk=public_profile_browsemap-profile",
+        "name": "Anish John Sabu Alapattu",
+        "summary": "Senior Data Scientist @GEP Worldwide | Computer Science Engineer | MSc in AI & ML | Generative AI researcher",
+        "location": "Mumbai"
+      },
+      {
+        "link": "https://in.linkedin.com/in/dr-rajesh-e-ph-d-440b36203?trk=public_profile_browsemap-profile",
+        "name": "Dr Rajesh E, Ph.D",
+        "summary": "Senior Data Scientist",
+        "location": "Hyderabad"
+      },
+      {
+        "link": "https://in.linkedin.com/in/divyanshjain19?trk=public_profile_browsemap-profile",
+        "name": "Divyansh Jain",
+        "summary": "Data Scientist @ Jiva (Powered by Olam)",
+        "location": "Indore"
+      },
+      {
+        "link": "https://in.linkedin.com/in/rajeev-kumar-35b419103?trk=public_profile_browsemap-profile",
+        "name": "Rajeev Kumar",
+        "summary": "",
+        "location": "Hyderabad"
+      },
+      {
+        "link": "https://in.linkedin.com/in/vikram731?trk=public_profile_browsemap-profile",
+        "name": "Vikram Singh",
+        "summary": "Data Scientist",
+        "location": "Bengaluru"
+      },
+      {
+        "link": "https://in.linkedin.com/in/amitdutta12?trk=public_profile_browsemap-profile",
+        "name": "Amit Dutta",
+        "summary": "Senior Software Engineer at GEP Worldwide",
+        "location": "Varanasi"
+      },
+      {
+        "link": "https://in.linkedin.com/in/haveela-karre-a900591a0?trk=public_profile_browsemap-profile",
+        "name": "Haveela Karre",
+        "summary": "Data Scientist @ Tredence Analytics",
+        "location": "India"
+      },
+      {
+        "link": "https://in.linkedin.com/in/eirukulla-swapneel-7001231b4?trk=public_profile_browsemap-profile",
+        "name": "EIRUKULLA SWAPNEEL",
+        "summary": "",
+        "location": "Hyderabad"
+      },
+      {
+        "link": "https://in.linkedin.com/in/venkat-chintalapalli-02089a165?trk=public_profile_browsemap-profile",
+        "name": "Venkat Chintalapalli",
+        "summary": "Data scientist | ML Engineer",
+        "location": "Vijayawada"
+      },
+      {
+        "link": "https://in.linkedin.com/in/gaurav-kamble-data-science-101?trk=public_profile_browsemap-profile",
+        "name": "Gaurav Kamble",
+        "summary": "Data Scientist at Dun & Bradstreet",
+        "location": "Maharashtra, India"
+      },
+      {
+        "link": "https://in.linkedin.com/in/aishwarya-m-10aa1b1a6?trk=public_profile_browsemap-profile",
+        "name": "Aishwarya M",
+        "summary": "Data Scientist at IBM",
+        "location": "Bengaluru"
+      },
+      {
+        "link": "https://in.linkedin.com/in/rajesh-nagireddy?trk=public_profile_browsemap-profile",
+        "name": "Rajesh Nagireddy",
+        "summary": "Data scientist at Cisco",
+        "location": "Hyderabad"
+      }
+    ],
+    "similar_profiles": [],
+    "recommendations": [],
+    "publications": [],
+    "courses": [],
+    "languages": [
+      { "name": "English", "level": "Full professional proficiency" },
+      { "name": "Hindi", "level": "Professional working proficiency" },
+      { "name": "Telugu", "level": "Native or bilingual proficiency" }
+    ],
+    "organizations": [],
+    "projects": [
+      {
+        "title": "Customer Support GEP Bot using Prompt Engineering",
+        "duration": "Nov 2023 - Dec 2023"
+      },
+      {
+        "title": "Contract Creation using Langchain Agent and Tools",
+        "duration": "Nov 2023 - Nov 2023"
+      },
+      { "title": "Contracts QNA", "duration": "Oct 2023 - Nov 2023" },
+      { "title": "Signature Detection", "duration": "Oct 2023 - Oct 2023" },
+      {
+        "title": "Employee Attrition Rate Prediction",
+        "duration": "May 2021 - Jun 2021"
+      },
+      {
+        "title": "Loan Defaulting Analysis",
+        "duration": "Jan 2021 - May 2021"
+      },
+      { "title": "Lead Scoring Analysis", "duration": "Jan 2020 - Jun 2020" }
+    ],
+    "awards": [
+      {
+        "name": "IBM Best GBS Award",
+        "organization": "-",
+        "duration": "",
+        "summary": "Secured the \"Best GBS Associate Award,\" representing dedication and commitment to clients and the organization."
+      },
+      {
+        "name": "Secured two increment Letters",
+        "organization": "-",
+        "duration": "",
+        "summary": "Secured two increment letters in a span of 2 years"
+      }
+    ],
+    "score": []
+  }
+]
